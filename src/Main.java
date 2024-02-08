@@ -16,6 +16,7 @@ public class Main {
                 Teacher[] teachers = (Teacher[]) o;
 
                 Db.teachers = teachers;
+                //
             } catch (Exception ignored) {
                 //
             }
